@@ -3,5 +3,6 @@
 <body>
 Hello world!
 Alex Thierjung
+This assignment is taking awhile but helpful. This class rocks & the professor is even better.
 </body>
 </html>
